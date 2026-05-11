@@ -1,5 +1,145 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "Thank you for visiting my professional portfolio website.\nYou can download my resume below.\nDownload My Resume"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "presentation",
+    "section": "",
+    "text": "This page highlights presentation projects created using Quarto and revealjs throughout the semester.\nThese presentations combined marketing analysis, data visualization, research findings, and professional design elements to communicate insights in an engaging format.\n\n\n\nSlide transitions\nInteractive presentation layouts\nData visualizations\nMarketing analysis\nProfessional formatting\nCustomized themes and design\n\n\n\n\n\nQuarto revealjs\nPresentation design\nMarketing communication\nData storytelling\nResearch presentation\nTechnical formatting\n\n\n\n\nProjects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester."
+  },
+  {
+    "objectID": "presentation.html#presentation-features",
+    "href": "presentation.html#presentation-features",
+    "title": "presentation",
+    "section": "",
+    "text": "Slide transitions\nInteractive presentation layouts\nData visualizations\nMarketing analysis\nProfessional formatting\nCustomized themes and design"
+  },
+  {
+    "objectID": "presentation.html#skills-demonstrated",
+    "href": "presentation.html#skills-demonstrated",
+    "title": "presentation",
+    "section": "",
+    "text": "Quarto revealjs\nPresentation design\nMarketing communication\nData storytelling\nResearch presentation\nTechnical formatting"
+  },
+  {
+    "objectID": "presentation.html#featured-work",
+    "href": "presentation.html#featured-work",
+    "title": "presentation",
+    "section": "",
+    "text": "Projects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester."
+  },
+  {
+    "objectID": "google-analytics.html",
+    "href": "google-analytics.html",
+    "title": "google analytics",
+    "section": "",
+    "text": "This page highlights my experience using Google Analytics 4 to understand website performance, user behavior, and digital marketing effectiveness.\n\n\nThroughout the semester, I used GA4 to review different types of website data, including:\n\nWebsite traffic\nUser engagement\nTraffic sources\nDevice usage\nEvents and conversions\nAdd-to-cart and purchase behavior\n\n\n\n\n\nUnderstanding digital analytics\nIdentifying important KPIs\nReading GA4 reports\nComparing time periods\nInterpreting audience behavior\nConnecting data insights to marketing decisions\n\n\n\n\nGoogle Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies."
+  },
+  {
+    "objectID": "google-analytics.html#what-i-analyzed",
+    "href": "google-analytics.html#what-i-analyzed",
+    "title": "google analytics",
+    "section": "",
+    "text": "Throughout the semester, I used GA4 to review different types of website data, including:\n\nWebsite traffic\nUser engagement\nTraffic sources\nDevice usage\nEvents and conversions\nAdd-to-cart and purchase behavior"
+  },
+  {
+    "objectID": "google-analytics.html#key-skills-demonstrated",
+    "href": "google-analytics.html#key-skills-demonstrated",
+    "title": "google analytics",
+    "section": "",
+    "text": "Understanding digital analytics\nIdentifying important KPIs\nReading GA4 reports\nComparing time periods\nInterpreting audience behavior\nConnecting data insights to marketing decisions"
+  },
+  {
+    "objectID": "google-analytics.html#marketing-value",
+    "href": "google-analytics.html#marketing-value",
+    "title": "google analytics",
+    "section": "",
+    "text": "Google Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "dashboard",
+    "section": "",
+    "text": "This page highlights dashboard and data visualization work completed throughout the semester using Quarto, RStudio, and Tableau.\nThe purpose of these projects was to organize and present data in a way that makes trends, patterns, and marketing insights easier to understand."
+  },
+  {
+    "objectID": "dashboard.html#dashboard-features",
+    "href": "dashboard.html#dashboard-features",
+    "title": "dashboard",
+    "section": "Dashboard Features",
+    "text": "Dashboard Features\n\nInteractive visualizations\nMarketing analytics insights\nTrend analysis\nData storytelling\nOrganized reporting layouts"
+  },
+  {
+    "objectID": "dashboard.html#tools-used",
+    "href": "dashboard.html#tools-used",
+    "title": "dashboard",
+    "section": "Tools Used",
+    "text": "Tools Used\n\nQuarto\nRStudio\nTableau\nExcel\nGoogle Analytics 4"
+  },
+  {
+    "objectID": "dashboard.html#example-work",
+    "href": "dashboard.html#example-work",
+    "title": "dashboard",
+    "section": "Example Work",
+    "text": "Example Work\nExamples of dashboard and visualization projects include coursework focused on marketing analytics, reporting, and visual presentation of data.\n\nMarketing Analytics Dashboards\nThese dashboards focused on organizing and visualizing marketing data to better identify trends, audience behavior, and performance insights.\nTools Used: Quarto, Tableau, RStudio, Excel\n\n\nData Visualization Skills\nProjects throughout the semester emphasized data storytelling, dashboard organization, trend analysis, and visual communication techniques used in marketing analytics.\n\n\nInteractive Reporting\nUsing Quarto and Tableau allowed for the creation of interactive and visually organized reports that improved readability and presentation of insights."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my professional portfolio. I am a Marketing Management student with interests in digital marketing, marketing analytics, branding, and content strategy.\nThis website highlights selected coursework and projects using tools such as RStudio, Quarto, Tableau, Google Analytics 4, Excel, and Canva.\nView My Projects View Resume"
+  },
+  {
+    "objectID": "index.html#marketing-management-student-cal-poly-pomona-graduating-summer-2026",
+    "href": "index.html#marketing-management-student-cal-poly-pomona-graduating-summer-2026",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my professional portfolio. I am a Marketing Management student with interests in digital marketing, marketing analytics, branding, and content strategy.\nThis website highlights selected coursework and projects using tools such as RStudio, Quarto, Tableau, Google Analytics 4, Excel, and Canva.\nView My Projects View Resume"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\nI am passionate about using marketing strategy and data-driven insights to better understand audiences, improve content, and support stronger brand decisions. Through my coursework and hands-on projects, I have gained experience in analytics, data visualization, campaign planning, SEO, and digital content creation."
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Home",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\n\nMarketing Analytics\nUsing data to understand customer behavior, evaluate performance, and support marketing decisions.\n\n\nDigital Marketing\nCreating and analyzing content across digital platforms to improve reach, engagement, and visibility.\n\n\nBrand Strategy\nDeveloping creative marketing ideas that connect with target audiences and strengthen brand identity."
+  },
+  {
+    "objectID": "index.html#featured-skills",
+    "href": "index.html#featured-skills",
+    "title": "Home",
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\nGoogle Analytics 4\nTableau\nRStudio & Quarto\nExcel\nSEO Analysis\nData Visualization\nSocial Media Content\nPresentation Design"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nBusiness Rebranding Project\nDeveloped a rebranding strategy focused on consumer analysis, brand positioning, and visual presentation design.\n\n\nGoogle Analytics 4 Analysis\nUsed GA4 reports to understand website traffic, engagement, events, and digital marketing performance.\n\n\nTableau Data Visualization Projects\nCreated visualizations and dashboards to identify trends, patterns, and marketing insights.\n\nView All Projects"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Home",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\nLinkedIn\nEmail: aponce3129@gmail.com"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "projects",
@@ -54,54 +194,5 @@
     "title": "projects",
     "section": "",
     "text": "Spreadsheet data created by summarizing and organizing discussion responses about generative AI into key themes and topic frequencies.\n\n\n\n\n\nTableau word cloud visualization created from the summarized discussion data to highlight the most common themes, concerns, and perspectives related to generative AI.\nThroughout the semester, I used Tableau to create visualizations and analyze marketing-related data. These projects included charts, trend analysis, dashboards, and data storytelling techniques used to present insights in a clear and engaging way.\nSkills used: Tableau, data visualization, dashboard creation, trend analysis, data storytelling"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my professional portfolio. I am a Marketing Management student with interests in digital marketing, marketing analytics, branding, and content strategy.\nThis website highlights selected coursework and projects using tools such as RStudio, Quarto, Tableau, Google Analytics 4, Excel, and Canva.\nView My Projects View Resume"
-  },
-  {
-    "objectID": "index.html#marketing-management-student-cal-poly-pomona-graduating-summer-2026",
-    "href": "index.html#marketing-management-student-cal-poly-pomona-graduating-summer-2026",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my professional portfolio. I am a Marketing Management student with interests in digital marketing, marketing analytics, branding, and content strategy.\nThis website highlights selected coursework and projects using tools such as RStudio, Quarto, Tableau, Google Analytics 4, Excel, and Canva.\nView My Projects View Resume"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\nI am passionate about using marketing strategy and data-driven insights to better understand audiences, improve content, and support stronger brand decisions. Through my coursework and hands-on projects, I have gained experience in analytics, data visualization, campaign planning, SEO, and digital content creation."
-  },
-  {
-    "objectID": "index.html#areas-of-interest",
-    "href": "index.html#areas-of-interest",
-    "title": "Home",
-    "section": "Areas of Interest",
-    "text": "Areas of Interest\n\nMarketing Analytics\nUsing data to understand customer behavior, evaluate performance, and support marketing decisions.\n\n\nDigital Marketing\nCreating and analyzing content across digital platforms to improve reach, engagement, and visibility.\n\n\nBrand Strategy\nDeveloping creative marketing ideas that connect with target audiences and strengthen brand identity."
-  },
-  {
-    "objectID": "index.html#featured-skills",
-    "href": "index.html#featured-skills",
-    "title": "Home",
-    "section": "Featured Skills",
-    "text": "Featured Skills\n\nGoogle Analytics 4\nTableau\nRStudio & Quarto\nExcel\nSEO Analysis\nData Visualization\nSocial Media Content\nPresentation Design"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Home",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nBusiness Rebranding Project\nDeveloped a rebranding strategy focused on consumer analysis, brand positioning, and visual presentation design.\n\n\nGoogle Analytics 4 Analysis\nUsed GA4 reports to understand website traffic, engagement, events, and digital marketing performance.\n\n\nTableau Data Visualization Projects\nCreated visualizations and dashboards to identify trends, patterns, and marketing insights.\n\nView All Projects"
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Home",
-    "section": "Connect With Me",
-    "text": "Connect With Me\n\nLinkedIn\nEmail: aponce3129@gmail.com"
   }
 ]
