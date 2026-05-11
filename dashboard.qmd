@@ -1,0 +1,47 @@
+---
+title: "dashboard"
+---
+
+This page highlights dashboard and data visualization work completed throughout the semester using Quarto, RStudio, and Tableau.
+
+The purpose of these projects was to organize and present data in a way that makes trends, patterns, and marketing insights easier to understand.
+
+## Dashboard Features
+
+- Interactive visualizations
+- Marketing analytics insights
+- Trend analysis
+- Data storytelling
+- Organized reporting layouts
+
+## Tools Used
+
+- Quarto
+- RStudio
+- Tableau
+- Excel
+- Google Analytics 4
+
+## Example Work
+
+Examples of dashboard and visualization projects include coursework focused on marketing analytics, reporting, and visual presentation of data.
+
+::: {.card}
+### Marketing Analytics Dashboards
+
+These dashboards focused on organizing and visualizing marketing data to better identify trends, audience behavior, and performance insights.
+
+**Tools Used:** Quarto, Tableau, RStudio, Excel
+:::
+
+::: {.card}
+### Data Visualization Skills
+
+Projects throughout the semester emphasized data storytelling, dashboard organization, trend analysis, and visual communication techniques used in marketing analytics.
+:::
+
+::: {.card}
+### Interactive Reporting
+
+Using Quarto and Tableau allowed for the creation of interactive and visually organized reports that improved readability and presentation of insights.
+:::

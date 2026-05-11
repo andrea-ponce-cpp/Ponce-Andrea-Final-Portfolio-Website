@@ -1,0 +1,31 @@
+---
+title: "google analytics"
+---
+
+# Google Analytics Experience
+
+This page highlights my experience using Google Analytics 4 to understand website performance, user behavior, and digital marketing effectiveness.
+
+## What I Analyzed
+
+Throughout the semester, I used GA4 to review different types of website data, including:
+
+- Website traffic
+- User engagement
+- Traffic sources
+- Device usage
+- Events and conversions
+- Add-to-cart and purchase behavior
+
+## Key Skills Demonstrated
+
+- Understanding digital analytics
+- Identifying important KPIs
+- Reading GA4 reports
+- Comparing time periods
+- Interpreting audience behavior
+- Connecting data insights to marketing decisions
+
+## Marketing Value
+
+Google Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies.

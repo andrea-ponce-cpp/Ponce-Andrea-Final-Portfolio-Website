@@ -1,0 +1,31 @@
+---
+title: "presentation"
+---
+
+# Revealjs Presentation
+
+This page highlights presentation projects created using Quarto and revealjs throughout the semester.
+
+These presentations combined marketing analysis, data visualization, research findings, and professional design elements to communicate insights in an engaging format.
+
+## Presentation Features
+
+- Slide transitions
+- Interactive presentation layouts
+- Data visualizations
+- Marketing analysis
+- Professional formatting
+- Customized themes and design
+
+## Skills Demonstrated
+
+- Quarto revealjs
+- Presentation design
+- Marketing communication
+- Data storytelling
+- Research presentation
+- Technical formatting
+
+## Featured Work
+
+Projects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester.

@@ -1,0 +1,9 @@
+---
+title: "resume"
+---
+
+Thank you for visiting my professional portfolio website.
+
+You can download my resume below.
+
+<a class="button-link" href="files/resume.pdf">Download My Resume</a>

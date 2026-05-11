@@ -1,0 +1,74 @@
+---
+title: "Home"
+---
+
+::: {.hero}
+# Andrea Ponce
+
+## Marketing Management Student | Cal Poly Pomona | Graduating Summer 2026
+
+![](images/portfolio-picture.jpg){width=250px .rounded-image}
+
+Welcome to my professional portfolio. I am a Marketing Management student with interests in digital marketing, marketing analytics, branding, and content strategy.
+
+This website highlights selected coursework and projects using tools such as RStudio, Quarto, Tableau, Google Analytics 4, Excel, and Canva.
+
+<a class="button-link" href="projects.html">View My Projects</a>
+<a class="button-link" href="resume.html">View Resume</a>
+:::
+
+## About Me
+
+I am passionate about using marketing strategy and data-driven insights to better understand audiences, improve content, and support stronger brand decisions. Through my coursework and hands-on projects, I have gained experience in analytics, data visualization, campaign planning, SEO, and digital content creation.
+
+## Areas of Interest
+
+::: {.card}
+**Marketing Analytics**  
+Using data to understand customer behavior, evaluate performance, and support marketing decisions.
+:::
+
+::: {.card}
+**Digital Marketing**  
+Creating and analyzing content across digital platforms to improve reach, engagement, and visibility.
+:::
+
+::: {.card}
+**Brand Strategy**  
+Developing creative marketing ideas that connect with target audiences and strengthen brand identity.
+:::
+
+## Featured Skills
+
+- Google Analytics 4
+- Tableau
+- RStudio & Quarto
+- Excel
+- SEO Analysis
+- Data Visualization
+- Social Media Content
+- Presentation Design
+
+## Featured Projects
+
+::: {.card}
+**Business Rebranding Project**  
+Developed a rebranding strategy focused on consumer analysis, brand positioning, and visual presentation design.
+:::
+
+::: {.card}
+**Google Analytics 4 Analysis**  
+Used GA4 reports to understand website traffic, engagement, events, and digital marketing performance.
+:::
+
+::: {.card}
+**Tableau Data Visualization Projects**  
+Created visualizations and dashboards to identify trends, patterns, and marketing insights.
+:::
+
+<a class="button-link" href="projects.html">View All Projects</a>
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/andrea-ponce-051042340/)
+- Email: aponce3129@gmail.com

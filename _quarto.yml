@@ -1,0 +1,37 @@
+
+project:
+  type: website
+  resources:
+    - files/resume.pdf
+
+website:
+  title: "Andrea Ponce Portfolio"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: dashboard.qmd
+        text: Dashboard
+
+      - href: presentation.qmd
+        text: Presentation
+
+      - href: google-analytics.qmd
+        text: Google Analytics
+
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme: lux
+    toc: true
+    toc-depth: 3
+    embed-resources: true
+    css: styles.css
+
