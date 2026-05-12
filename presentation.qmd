@@ -28,4 +28,11 @@ These presentations combined marketing analysis, data visualization, research fi
 
 ## Featured Work
 
-Projects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester.
+![](images/rpe-presentation.png){width="90%" fig-align="center"}
+
+*Example of a revealjs presentation created for an in-class RPE project activity in IBM 3202.01 at Cal Poly Pomona.*
+
+
+![](images/research-presentation.png){width="90%" fig-align="center"}
+
+*Group research presentation analyzing instructor factors and student research participation.*

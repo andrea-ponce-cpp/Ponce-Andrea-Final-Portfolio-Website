@@ -29,3 +29,9 @@ Throughout the semester, I used GA4 to review different types of website data, i
 ## Marketing Value
 
 Google Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies.
+
+## Google Analytics For My Website Portfolio
+
+![](images/ga4-realtime.png){width="85%" fig-align="center"}
+
+*Realtime overview from Google Analytics 4 showing active users, page views, and engagement events across the portfolio website.*
