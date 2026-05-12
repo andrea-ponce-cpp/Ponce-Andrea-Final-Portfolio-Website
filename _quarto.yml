@@ -35,5 +35,6 @@ format:
     toc-depth: 3
     embed-resources: true
     css: styles.css
-    google-analytics: "G-K1SEYPV3PW"
+    
+google-analytics: "G-K1SEYPV3PW"
 
