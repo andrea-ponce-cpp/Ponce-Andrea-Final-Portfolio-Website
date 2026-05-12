@@ -11,7 +11,7 @@
     "href": "presentation.html",
     "title": "presentation",
     "section": "",
-    "text": "This page highlights presentation projects created using Quarto and revealjs throughout the semester.\nThese presentations combined marketing analysis, data visualization, research findings, and professional design elements to communicate insights in an engaging format.\n\n\n\nSlide transitions\nInteractive presentation layouts\nData visualizations\nMarketing analysis\nProfessional formatting\nCustomized themes and design\n\n\n\n\n\nQuarto revealjs\nPresentation design\nMarketing communication\nData storytelling\nResearch presentation\nTechnical formatting\n\n\n\n\nProjects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester."
+    "text": "This page highlights presentation projects created using Quarto and revealjs throughout the semester.\nThese presentations combined marketing analysis, data visualization, research findings, and professional design elements to communicate insights in an engaging format.\n\n\n\nSlide transitions\nInteractive presentation layouts\nData visualizations\nMarketing analysis\nProfessional formatting\nCustomized themes and design\n\n\n\n\n\nQuarto revealjs\nPresentation design\nMarketing communication\nData storytelling\nResearch presentation\nTechnical formatting\n\n\n\n\n\n\n\n\n\nExample of a revealjs presentation created for an in-class RPE project activity in IBM 3202.01 at Cal Poly Pomona.\n\n\n\n\n\nGroup research presentation analyzing instructor factors and student research participation."
   },
   {
     "objectID": "presentation.html#presentation-features",
@@ -32,14 +32,14 @@
     "href": "presentation.html#featured-work",
     "title": "presentation",
     "section": "",
-    "text": "Projects included marketing strategy presentations, analytics reports, and research presentations developed throughout the semester."
+    "text": "Example of a revealjs presentation created for an in-class RPE project activity in IBM 3202.01 at Cal Poly Pomona.\n\n\n\n\n\nGroup research presentation analyzing instructor factors and student research participation."
   },
   {
     "objectID": "google-analytics.html",
     "href": "google-analytics.html",
     "title": "google analytics",
     "section": "",
-    "text": "This page highlights my experience using Google Analytics 4 to understand website performance, user behavior, and digital marketing effectiveness.\n\n\nThroughout the semester, I used GA4 to review different types of website data, including:\n\nWebsite traffic\nUser engagement\nTraffic sources\nDevice usage\nEvents and conversions\nAdd-to-cart and purchase behavior\n\n\n\n\n\nUnderstanding digital analytics\nIdentifying important KPIs\nReading GA4 reports\nComparing time periods\nInterpreting audience behavior\nConnecting data insights to marketing decisions\n\n\n\n\nGoogle Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies."
+    "text": "This page highlights my experience using Google Analytics 4 to understand website performance, user behavior, and digital marketing effectiveness.\n\n\nThroughout the semester, I used GA4 to review different types of website data, including:\n\nWebsite traffic\nUser engagement\nTraffic sources\nDevice usage\nEvents and conversions\nAdd-to-cart and purchase behavior\n\n\n\n\n\nUnderstanding digital analytics\nIdentifying important KPIs\nReading GA4 reports\nComparing time periods\nInterpreting audience behavior\nConnecting data insights to marketing decisions\n\n\n\n\nGoogle Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies.\n\n\n\n\n\n\n\n\nRealtime overview from Google Analytics 4 showing active users, page views, and engagement events across the portfolio website."
   },
   {
     "objectID": "google-analytics.html#what-i-analyzed",
@@ -61,6 +61,13 @@
     "title": "google analytics",
     "section": "",
     "text": "Google Analytics helps marketers understand how users interact with digital content. By analyzing GA4 reports, I was able to better understand where users come from, what actions they take, and how businesses can improve their digital marketing strategies."
+  },
+  {
+    "objectID": "google-analytics.html#google-analytics-for-my-website-portfolio",
+    "href": "google-analytics.html#google-analytics-for-my-website-portfolio",
+    "title": "google analytics",
+    "section": "",
+    "text": "Realtime overview from Google Analytics 4 showing active users, page views, and engagement events across the portfolio website."
   },
   {
     "objectID": "dashboard.html",
